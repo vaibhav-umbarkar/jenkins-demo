@@ -1,4 +1,4 @@
 # jenkins-demo
 Git repo for jenkins demo/testing
 Vaibhav U
-v1.0
+v1.2
